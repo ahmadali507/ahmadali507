@@ -10,6 +10,10 @@ Experienced Full Stack Developer with over a year of hands-on experience. Profic
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![](https://img.shields.io/badge/ShadCN--UI-1473E6?style=flat)
+![](https://img.shields.io/badge/React-Native-1473E6?logo=react)
+![](https://img.shields.io/badge/Expo-Go-144546?style=flat&logo=expo)
+
+
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
