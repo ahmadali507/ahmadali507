@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Ahmad Ali Shahid
-Experienced Full Stack Developer with over a year of hands-on experience. Proficient in the MERN Stack, Next.js, and GraphQL Architecture. Passionate about taking ownership of projects and delivering results ahead of schedule. Comfortable with both web development and API development.
+Experienced Full Stack Developer with 2+ year of hands-on experience. Proficient in the MERN Stack, Next.js, and GraphQL Architecture. Passionate about taking ownership of projects and delivering results ahead of schedule. Comfortable with both web development and API development.
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
